@@ -1,1 +1,3 @@
-# azure-ai-engineer
+# Azure AI Engineer  
+
+Azure AI Engineers design and implement AI solutions using Azure's robust suite of tools and services. They specialize in machine learning, natural language processing, and computer vision. Their role involves deploying scalable AI models and ensuring integration with existing systems. By leveraging Azure best practices, they deliver secure and efficient AI-driven applications.  W
